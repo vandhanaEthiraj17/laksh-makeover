@@ -1,0 +1,7 @@
+{
+  "name": "Laksh Makeover Artistry",
+  "description": "A premium retro-vintage themed booking platform for bridal artistry, spa treatments, and professional makeup services with integrated financial tracking and lookbook.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
